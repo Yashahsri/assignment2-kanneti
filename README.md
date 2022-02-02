@@ -13,5 +13,13 @@ Kukatpally is a bustling locality and so is our KFC Restaurant. Situated on the 
 3. Step down at KFC Restaurant
 
 
+### Recommended food
+
+* Mingles Bucket
+* Rice Bowl
+* Wraps
+
+
+ 
 
 
