@@ -57,6 +57,35 @@ Below table gives a breif intro about gaming activites and the location of gamin
 
 >***- Eddie Mumford***
 
+<hr>
+
+
+# Code Fencing
+
+
+# combinatorial work
+
+
+>In the course of our combinatorial work over the past several years, we have been fond of going to the computer from time to time in order to see some examples of the things we were studying. We have built up a fairly extensive library of programs, and we feel that other might be interested in learning about the methods and/or use of the programs. This book is the result. It can be read as a collection of mathematical algorithms, and as such we hope the reader will find much that is new and interesting. Yet to do so would be to miss something that to us seems essential: the interchange between the computer programs per se, the computer, the algorithms, and ultimately the mathematics.[-Goto Source](https://mathshistory.st-andrews.ac.uk/Extras/Combinatorial_algorithms/).
+
+
+
+we can implement `combinatorial work` as follows <https://cp-algorithms.com/combinatorics/binomial-coefficients.html>
+
+
+
+```const int maxn = ...;
+int C[maxn + 1][maxn + 1];
+C[0][0] = 1;
+for (int n = 1; n <= maxn; ++n) {
+    C[n][0] = C[n][n] = 1;
+    for (int k = 1; k < n; ++k)
+        C[n][k] = C[n - 1][k - 1] + C[n - 1][k];
+}
+```
+
+
+
 
  
 
