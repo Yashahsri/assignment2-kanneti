@@ -43,6 +43,19 @@ Below table gives a breif intro about gaming activites and the location of gamin
 |Surfing| texas | $ 3400|
 |Karting| Chicago | $1700|
 
+<hr>
+
+# Pithy Quotes
+
+> “It's always darkest before you're blinded by the light”.”<br>
+
+>***- josh stern***
+
+
+
+>“Money is a tool, so I don't have to be.”<br>
+
+>***- Eddie Mumford***
 
 
  
